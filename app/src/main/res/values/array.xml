@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string-array name="student_name">
+     <item>ITA TENDERS</item>
+     <item>AVAILABLE JOBS</item>
+     <item>UPCOMING EVENT</item>
+     <item>PAYMENT GATEWAYS</item>
+     <item> OMAN NATIONALCERT</item>
+     <item>CARRIERS</item>
+     <item>GREEN INITIATIVE</item>
+     <item>BUISNESS AND APARTNER</item>
+
+
+ </string-array>
+    <integer-array name="imagerandom">
+        <item>@drawable/img3</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img3</item>
+    </integer-array>
+
+</resources>
